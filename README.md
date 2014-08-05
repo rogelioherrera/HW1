@@ -12,5 +12,7 @@ I'm assuming you know *something* about HTML and CSS.  If you feel totally cluel
 
 1.  Create a repository on GitHub
 2.  Create a simple website using HTML and CSS.
-1. Fork the website   Make changes to the index file to create your own website.  Push the changes back to the server.  Submit the assignment by pasting the clone URL in the submission box.
+3.  Commit your changes to the repository.
+4.  Push the updates to the server.
+5.  Submit the assignment by pasting the clone URL in the submission box.  If your repository is private, please add me (howardcy) as a collaborator.  Instructions for adding a collaborator are here: [https://help.github.com/articles/adding-collaborators-to-a-personal-repository](https://help.github.com/articles/adding-collaborators-to-a-personal-repository).
 
